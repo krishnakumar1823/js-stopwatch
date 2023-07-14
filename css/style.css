@@ -1,0 +1,15 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}  
+.bg{
+	background-color: #2c2d2ec7;
+    color: #e9a62c;
+	font-size: 20px;
+}
+p{
+	background-color: #e9a62c;
+	color:#2c2d2ec7;
+	border-radius: 25px;
+}
